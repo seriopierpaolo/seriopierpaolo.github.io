@@ -6,13 +6,13 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2512.02897"
     selected: y
 
-    - title: "A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System"
+  - title: "A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System"
     authors: "Lorenzo Gentilini, Pierpaolo Serio, Valentina Donzella, Lorenzo Pollini"
     venue: "Arxiv'25: arXiv preprint. 2025."
     paper_pdf: "https://arxiv.org/abs/2507.16621"
     selected: y
 
-    - title: "Vision-Aided Velocity Estimation in GNSS Degraded or Denied Environments"
+  - title: "Vision-Aided Velocity Estimation in GNSS Degraded or Denied Environments"
     authors: "Pierpaolo Serio, Andrea Dan Ryals, Francesca Piana, Lorenzo Gentilini, Lorenzo Pollini"
     venue: "MDPI Sensors 26: Remote Sensors"
     paper_pdf: "https://www.mdpi.com/1424-8220/26/3/786"
